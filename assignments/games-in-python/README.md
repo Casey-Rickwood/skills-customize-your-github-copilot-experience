@@ -1,7 +1,7 @@
 
 # 🎮 Hangman Game Challenge
 
-## 📋 Objective
+## 🎯 Objective
 
 Build the classic Hangman word-guessing game using Python. You'll practice string manipulation, loops, conditionals, and random selection as you create an interactive game where players guess letters to reveal a hidden word before running out of attempts.
 
