@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-database-persistence",
+      "title": "Database Persistence with FastAPI & SQLAlchemy",
+      "description": "Build persistent REST APIs using FastAPI and SQLAlchemy ORM to store and manage data in a SQLite database.",
+      "path": "assignments/fastapi-database-persistence",
+      "dueDate": "2026-08-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
